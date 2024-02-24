@@ -1,0 +1,9 @@
+{
+    "__comment": "relative paths are relative to the working directory of scripts",
+    "data_root": "../",
+    "preproc_dir": "../test_data/",
+    "analysis_dir": "../test_results/",
+    "project_dir": "../",
+    "stim_dir": "~/Data/FreeViewing/",
+    "cache_dir": "~/Data/FreeViewing/Cache/"
+}

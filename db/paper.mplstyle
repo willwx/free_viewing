@@ -1,0 +1,37 @@
+figure.figsize: 2, 1.25
+figure.dpi: 200
+axes.linewidth: 0.5
+axes.labelpad: 1
+axes.titlesize: 7
+axes.labelsize: 7
+axes.spines.top: False
+axes.spines.right: False
+axes.autolimit_mode: round_numbers
+font.family: sans-serif
+font.sans-serif: Arial
+font.size: 7
+svg.fonttype: none
+lines.linewidth: 1
+lines.dashed_pattern: 2, 1.24
+xtick.labelsize: 6
+xtick.major.width: 0.5
+xtick.major.size: 2
+xtick.major.pad: 2
+xtick.minor.width: 0.5
+xtick.minor.size: 1
+xtick.minor.pad: 1
+ytick.labelsize: 6
+ytick.major.width: 0.5
+ytick.major.size: 2
+ytick.major.pad: 2
+ytick.minor.width: 0.5
+ytick.minor.size: 1
+ytick.minor.pad: 1
+legend.fontsize: 7
+legend.title_fontsize: 7
+legend.frameon: False
+legend.handlelength: 1
+legend.handletextpad: 0.5
+savefig.dpi: 300
+savefig.bbox: tight
+savefig.facecolor: none

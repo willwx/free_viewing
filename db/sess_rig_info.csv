@@ -1,0 +1,702 @@
+Name,Screen res,Eye tracker,MLVersion,Rig
+Ye191029,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa191031,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa191024_2,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa191028,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Ye191030,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa191029,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa191030,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa191024_1,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa191025,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Ye191031,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200325,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200325,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200325,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200322,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200322,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200413,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200413,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200413,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Bo200413,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200412,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200412,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200412,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200412,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200321,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200321,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200321,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200328,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200328,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200328,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200323,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200323,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200323,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200405,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200405,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200405,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200405,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200408,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200408,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200408,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200408,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200408,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200402,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200402,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200402,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200402,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200414,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200414,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200414,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200414,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200327,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200327,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200327,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Bo200330,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200330,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200330,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200330,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200331,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200331,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200331,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Bo200331,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa191119,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200102_1,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa191104,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200104_1,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa191118_1,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Ye191102,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200105_1,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Ye191106,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa191102,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Ye191104,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200101_1,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa191111,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Ye191107,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye191105,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa191118_2,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Lo200322,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200406,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200406,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Bo200406,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200406,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200329,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200329,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200329,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200404,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200404,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200404,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200404,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200403,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200403,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200403,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200410,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200410,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200410,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200410,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200317,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200123,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Ye200115_1,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200306,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Sw200317,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200311,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200212_1,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200205_1,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200120,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Lo200319,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200122,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Ot200318,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Re200308,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200114_1,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Ot200319,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200318,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Re200311,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200224,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200228,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Sw200316,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200320,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200131,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Lo200317,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200316,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200316,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200127,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200213,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Sw200320,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200209,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Lo200320,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200317,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200313,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200210,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200128_1,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Lo200318,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200205_2,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200214,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Sw200319,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200124,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Pa200115,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Ot200326,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200326,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200326,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200409,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200409,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200409,1920 x 1080 165 Hz,None,"Mar 16, 2020 build 209",2
+Sw200409,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200409,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200411,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200411,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200411,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200411,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200324,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200324,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200324,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200401,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200401,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200401,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200401,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200407,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Bo200407,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200407,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200407,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200407,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200507,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Ot200507,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200507,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200507,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200507,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200531,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Sw200430,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200430,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200430,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Lo200430,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200425,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200425,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200420,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200418,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200420,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200420,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200620,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Bo200620,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Ye200806,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Sw200418,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200418,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200422,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200422,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200422,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200417,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200417,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200417,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Bo200603,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Lo200427,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200427,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200424,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200424,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200616,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Bo200526,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Ot200419,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200419,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200419,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Bf200918,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa200618,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Ye200618,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Sw200421,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200421,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200421,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Bo200607,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Lo200506,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200506,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200506,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200506,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200506,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Bf200911,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re200911,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf200909,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Oc200912,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Bo200912,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Ot200504,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Bo200504,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200504,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200504,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Ye200504,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200504,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200517,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Ye200622,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200429,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200429,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200429,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200523,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Lo200428,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200428,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200502,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200502,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200502,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200501,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200501,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200501,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200501,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Pa200508,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Lo200508,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200508,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200508,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200509,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Pa200511,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Ot200416,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200416,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200416,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200416,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200606_1,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Bo200701,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo200726,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo200719,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Ye200714,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo200725,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo200712,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Ye200720,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Ye200709,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Ye200724,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Ye200717,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Ye200710,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Ye200716,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo200628,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Ye200731,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re200713,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Ye200723,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf200906,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re200908,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf200908,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf200907,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa200524,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Ot200503,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Bo200503,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200503,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200503,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200503,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Lo200503,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200505,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Lo200505,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200505,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ye200505,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Sw200505,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200426,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200426,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Ot200423,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Lo200423,1600 x 1200 60 Hz,None,"May 9, 2019 build 187",1
+Pa200528,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Pa200515,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Ye200621,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa200617,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Bo200525,1920 x 1080 165 Hz,SR Research EyeLink,"Mar 16, 2020 build 209",2
+Ye200807,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf200917,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa200121,1920 x 1080 165 Hz,None,"Jul 31, 2019 build 193",2
+Fr210121,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr201215,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210127,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr201208,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re201121,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo201025,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr201217,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo201107,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re201107,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr201214,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210120,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf220903,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf211001,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Pa210306,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr210307,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo201223,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf211101,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Fr211119,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Pa210812,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo201127,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re210117,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr211110,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Fr211112,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bo201212,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr210407,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Pa210219,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210208,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210203,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf210826,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Oc210826,1920 x 1080 165 Hz,None,"2.2.12 (Mar 16, 2021)",2
+Bo210307,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr210310,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210119,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo201024,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo201017,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo201222,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr210401,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Fr201204,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210616,1600 x 1200 60 Hz,None,"2.2.14 (May 2, 2021)",1
+Pa210129,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re210731,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Pa210125,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re200923,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr201205,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re210730,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Pa210308,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr220609,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na210730,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Pa210210,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf220108,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Fr201129,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210124,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf211029_2,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.19 (Oct 12, 2021)",2
+Fr210327,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Re201101,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo210118,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re201205,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Lo220105,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr210311,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re210508,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Re201116,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf220122,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Pa210209,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re201105,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr201128,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr201212,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr201209,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Na210914,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Lo211222,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Pa210807,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr210320,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Re201122,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr211029,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.19 (Oct 12, 2021)",2
+Fr201210,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Ve210412,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Ve210414,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Re201117,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210217,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Lo211124,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Pa210218,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re201108,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210726,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Fr210404,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Re210511,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Fr210331,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Fr211123,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Pa210216,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo201128,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re201203,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210206,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210202,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo210808,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo201115,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210205,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo201018,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210809,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve210104,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210201,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re210505,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Ot210824,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Re201204,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr201216,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210204,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Lo211122,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr211108,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Pa210313,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Lo220104,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Ve220117,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Fr210313,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo201108,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf211222,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Fr201203,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Ve220116,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Na210927,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr201218,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210314,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210121,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Fr211101,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf220314,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Re201231,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210130,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210118,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210312,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210131,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo210613,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Ve210617,1920 x 1080 165 Hz,None,"2.2.12 (Mar 16, 2021)",2
+Bf220130,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Pa210123,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210122,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf210930,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Na211222,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Ot210823,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Ve220122,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Fr210308,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Re210512,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Ve210413,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Re210729,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Bf220902,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bo220913,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bf211021,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.19 (Oct 12, 2021)",2
+Pa210717,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Fr210322,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Re210722,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Pa210311,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bo210614,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Fr210309,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Na210924,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Pa210723,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Re210607,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Pa210310,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210307,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Bf220204,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Pa210309,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Pa210720,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Bo220531,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Ve220108,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Na220907,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Lo211223,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf220113,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Ve220113,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf210802,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Na210823,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na210824,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr211019,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.19 (Oct 12, 2021)",2
+Oc210817_2,1920 x 1080 165 Hz,None,"2.2.12 (Mar 16, 2021)",2
+Ve211208_2,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf210827,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Pa210806,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220119,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr220120,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+An220118,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+An220107,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+An220111,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220119,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Lo220111,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Lo220112,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+An220110,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220113,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Lo220106,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220114,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Lo220119,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+An220113,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Lo220118,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220111,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220112,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220110,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Lo220107,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr220118,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Lo220110,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr211115,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf211102,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Na220118,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Ve220203,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Na210823_1,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Pa210616_2,1600 x 1200 60 Hz,None,"2.2.14 (May 2, 2021)",1
+Bf211029_3,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.19 (Oct 12, 2021)",2
+Bf211029,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.19 (Oct 12, 2021)",2
+Ve220209,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Lo220103,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220103,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf211113,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf220407,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Pa210810,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Oc220804,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr211109,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Oc210817_1,1920 x 1080 165 Hz,None,"2.2.12 (Mar 16, 2021)",2
+Pa210811,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bf220310,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Ot210824_1,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr211018,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.19 (Oct 12, 2021)",2
+Oc210819,1920 x 1080 165 Hz,None,"2.2.12 (Mar 16, 2021)",2
+Na210729,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf211103,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Oc210823,1920 x 1080 165 Hz,None,"2.2.12 (Mar 16, 2021)",2
+Lo220905,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Pa210808,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220211,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Fr220908,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+An220105,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Ve211222,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bo210306,1920 x 1080 165 Hz,SR Research EyeLink,"Jun 15, 2020 build 215",2
+Ve211208,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf220805,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Fr211017,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.19 (Oct 12, 2021)",2
+Ve211208_1,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf210929,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.12 (Mar 16, 2021)",2
+Ve220205,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Fr211028,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.19 (Oct 12, 2021)",2
+Na220903,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220908,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220206,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Fr211027,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.19 (Oct 12, 2021)",2
+Bo220601,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Ve220204,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Lo220531,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220530,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Pa220601,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr211026,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.19 (Oct 12, 2021)",2
+Bf220119,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Na220913,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bf220116,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Ve211223,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr220606,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220105,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf211114,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Pa220602,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr211122,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Oc220901,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bo220831,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220104,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf220701,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Lo211123,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220911,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220907,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na211223,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220915,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Lo220113,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf211230,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf220909,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+An220119,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+An220106,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220107,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf220412,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Ve220123,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Re220917,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220201,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Ve220202,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf220831,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Ve220119,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Na220526,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf220104,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf220628,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Na220106,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf220202,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bo220602,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+An220112,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bo220912,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220112,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf220131,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf220201,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Re220913,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220208,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf220203,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf220411,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Re220830,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bf220126,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Ve220126,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Fr220607,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf220317,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Lo220530,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf220413,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Re220904,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bf220801,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bf220830,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Lo220831,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220916,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220905,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bf220612,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Na220529,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bo220909,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bf220828,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Oc220812,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220914,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bf220610,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Re220908,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220906,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220608,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Re220916,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Oc220802,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf220404,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Na220912,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220609,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf220827,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Fr220917,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220913,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bf220611,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Bo220829,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Re220831,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na220831,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220831,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf220804,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Re220909,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Pa220531,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Ve220606,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Lo220829,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220829,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220608,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220830,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bf220617,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Na220917,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220914,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Oc220803,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bo220903,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Re220914,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220905,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Ve220906,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Oc220905,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Oc220907,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Lo220602,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Lo220906,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf220715,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Re220903,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220902,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Re220901,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Re220902,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na220901,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220902,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220901,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na220902,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220901,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bf220908,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Oc220811,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bo220910,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bf220622,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Ve220907,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Lo220908,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr220911,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220901,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Re220906,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Re220907,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Re220905,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220905,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na220908,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na220909,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220910,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Lo220907,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Oc220908,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bf220913,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Fr220903,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Lo220901,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr220915,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220916,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220906,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na220906,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220830,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Re220912,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bf220829,1920 x 1080 165 Hz,SR Research EyeLink,"2.2.20 (Oct 27, 2021)",2
+Re220829,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220907,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Re220910,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na220905,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Oc220906,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Fr220831,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220917,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Oc220831,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Re220915,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na220829,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220904,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Lo220830,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Na220904,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na220910,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220909,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Ve220908,1280 x 1024 75 Hz,None,"Jun 22, 2019 build 190",3
+Bo220915,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220904,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220830,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220914,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220912,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220918,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Re220918,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220918,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na220918,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220919,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na220919,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220919,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Re220919,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220920,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na220920,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220920,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Re220920,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Bo220921,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Fr220921,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
+Na220921,1600 x 1200 60 Hz,None,"2.2.17 (Jul 26, 2021)",1
