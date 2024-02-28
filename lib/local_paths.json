@@ -4,6 +4,6 @@
     "preproc_dir": "../test_data/",
     "analysis_dir": "../test_results/",
     "project_dir": "../",
-    "stim_dir": "~/Data/FreeViewing/",
-    "cache_dir": "~/Data/FreeViewing/Cache/"
+    "stim_dir": "~/Data/free_viewing/",
+    "cache_dir": "~/Data/free_viewing/Cache/"
 }

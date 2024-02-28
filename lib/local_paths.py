@@ -19,7 +19,7 @@ with open(Path(__file__).parent / 'local_paths.json', 'r') as f:
 locale = data.get('locale', 'local')
 
 # location of data and analysis results
-data_root = data.get('data_root', '~/Data/FreeViewing/')
+data_root = data.get('data_root', '~/Data/free_viewing/')
 preproc_dir = data.get('preproc_dir', data_root+'Preprocessed/')
 analysis_dir = data.get('analysis_dir', data_root+'Analysis/')
 cache_dir = data.get('cache_dir', data_root+'Cache/')
