@@ -1,6 +1,6 @@
 Code for the analyses in Xiao et al., 2024, 'Out of sight, out of mind: Feature-selective responses in the macaque follow eye movements during natural vision'. See this [early version on biorxiv](https://www.biorxiv.org/content/10.1101/2023.02.08.527666v1.full). A revised version is AIP at Nature Neuroscience.
 
-The associated data are in [this DANDI repository](https://dandiarchive.org/dandiset/000628) (including neural and behavioral data) and this OSF repository (including images; upcoming).
+The associated data are in [this DANDI repository](https://dandiarchive.org/dandiset/000628) (neural and behavioral data) and [this OSF repository](https://osf.io/sde8m/) (images and TTL events needed for one analysis, `script_2c`).
 
 
 # Examples
