@@ -1,5 +1,5 @@
 # Example
-The script `run_cache_stim_grid_repr.py` is set to calculate and save stimulus features for an example session (Pa210120, 144 images at 16 × 16 dva) using default settings in the paper.
+The script `run_cache_stim_grid_repr.py` is set to calculate and save stimulus features for an example session (Pa210120, 144 images at 16 × 16 dva) using default settings in the paper. The log file for this example is `./log_cache_stim*`.
 
 # Workflow overview
 The file `script_cache_stim_grid_repr.ipynb` contains the substantive code. This script calculates, for a list of images, model feature embeddings in these flavors:
