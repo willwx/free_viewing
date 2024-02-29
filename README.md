@@ -20,7 +20,7 @@ The results are produced by the bash script, `run_one_sess_all_main.sh`. The scr
 
 3. `db`: Parameters for analyses and plotting, including image region labels (masks and bounding boxes), lists of neurons (all, visually responsive, and visually selective), and per-neuron parameters (latencies and RFs; more details below).
 
-4. `Image_features`: Scripts to pre-calculate DNN image embeddings used in model-based analyses (Figs. 5 & 6). 
+4. `Image_features`: Scripts to pre-calculate DNN image embeddings used in model-based analyses (Figs. 6 & 7). 
 
 Upcoming:
 1. `Summary`: Scripts for statistical tests and summary plots with embedded results matching the paper figures.
@@ -29,14 +29,14 @@ Upcoming:
 
 
 # To repduce the analyses
-The script `run_one_sess_all_main.sh` can be applied to all sessions. The following notes further explain the pipeline and setup.
+The script `run_one_sess_all_main.sh` runs all analyses for one session and can be applied to all sessions. The following notes further explain the pipeline and setup.
 
 ## Workflow overview
 Each session is analyzed independently*. For each analysis and session, the same script is run using the session name as a parameter, This is done in batch using [papermill](papermill.readthedocs.io). The results are saved in .h5 files for use in summary plots and, sometimes, as inputs to downstream analyses.
 
 *Some analyses use per-neuron paramters (latencies and RFs) estimated from data across sessions. This procedure is detailed in the paper Methods and the script `run_one_sess_hier_group.sh`. The folder `db` contains these parameters pre-calculated to facilitate reproducibility.
 
-(Upcoming.) The code in `Image_features` is run once to pre-calculate image DNN embeddings (used in scripts 6a, 6b, 7a). This facilitates analyzing hundreds of sessions in parallel without needing GPUs. (Note that the cached features need ~200 GB of disk space using the default settings in the paper.)
+The code in `Image_features` is run once to pre-calculate image DNN embeddings (used in scripts 6a, 6b, 7a). This facilitates analyzing hundreds of sessions in parallel without needing GPUs. (Note that the cached features take up ~200 GB of disk space for all images in this study using the default settings.)
 
 
 ## File locations
