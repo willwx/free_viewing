@@ -245,7 +245,7 @@ def pairwise_self_consistency_perm_test(
     if n > 2 * max_pairs:
         n_ = 2 * max_pairs
         # subsample smaller condition with parabolic decay toward asymptote of
-        # 4 pairs total, 2 paiors each cond; don't use linear decay because
+        # 4 pairs total, 2 pairs each cond; don't use linear decay because
         # that can heavily unbalance the two conditions
         na, nb = sorted((n0, n1))
         m = (max_pairs - 2) / (n / 2 - 2) ** 0.5
