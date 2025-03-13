@@ -101,7 +101,9 @@ def cv_ridge_predict(X, Y, splits, alpha, return_pred=True, return_coefs=False):
             print(f'fitting failed at split {i_split}:', str(e))
             continue
         if return_pred:
-            cv_pred[i1] = model.predict(X[i1])
+            Y_pred = model.predict(X[i1])
+            if Y_pred.ndim == 1: Y_pred = Y_pred[:,None]
+            cv_pred[i1] = Y_pred
         if return_coefs:
             coefs[i_split] = model.coef_
 
